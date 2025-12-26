@@ -1,0 +1,392 @@
+[
+  {
+    "input": "Need 350 bags of Ultratech Cement 50kg for the site Mumbai-West urgently in 7 days",
+    "output": {
+      "material_name": "Ultratech Cement 50kg",
+      "quantity": 350.0,
+      "unit": "bags",
+      "project_name": null,
+      "location": "Mumbai-West",
+      "urgency_signal": "urgently",
+      "urgency": "high",
+      "deadline": "2025-12-31"
+    }
+  },
+  {
+    "input": "Create 25mm steel bars, 120 units for Project Phoenix, required before 15th March",
+    "output": {
+      "material_name": "25mm steel bars",
+      "quantity": 120.0,
+      "unit": "units",
+      "project_name": "Project Phoenix",
+      "location": null,
+      "urgency_signal": null,
+      "urgency": "low",
+      "deadline": "2025-03-15"
+    }
+  },
+  {
+    "input": "Order 12 truckloads of river sand for Bangalore Metro Phase 2 by April end",
+    "output": {
+      "material_name": "river sand",
+      "quantity": 12.0,
+      "unit": "truckloads",
+      "project_name": "Bangalore Metro Phase 2",
+      "location": null,
+      "urgency_signal": null,
+      "urgency": "low",
+      "deadline": "2025-04-30"
+    }
+  },
+  {
+    "input": "bhai 500 bricks chahiye site pe kal tak",
+    "output": {
+      "material_name": "bricks",
+      "quantity": 500.0,
+      "unit": null,
+      "project_name": null,
+      "location": "site pe",
+      "urgency_signal": "kal tak",
+      "urgency": "low",
+      "deadline": null
+    }
+  },
+  {
+    "input": "20 ton sariya urgent Gurgaon site",
+    "output": {
+      "material_name": "20 ton sariya",
+      "quantity": 20.0,
+      "unit": "ton",
+      "project_name": null,
+      "location": "Gurgaon site",
+      "urgency_signal": "urgent",
+      "urgency": "high",
+      "deadline": null
+    }
+  },
+  {
+    "input": "Need cement ASAP for Pune bridge",
+    "output": {
+      "material_name": "cement",
+      "quantity": null,
+      "unit": null,
+      "project_name": "Pune bridge",
+      "location": "Pune",
+      "urgency_signal": "ASAP",
+      "urgency": "high",
+      "deadline": null
+    }
+  },
+  {
+    "input": "TMT bars 16mm 200pcs DLF site sector 45 delivery tuesday next week",
+    "output": {
+      "material_name": "TMT bars 16mm",
+      "quantity": 200.0,
+      "unit": "pcs",
+      "project_name": null,
+      "location": "DLF site sector 45",
+      "urgency_signal": null,
+      "urgency": "low",
+      "deadline": null
+    }
+  },
+  {
+    "input": "ultratech opc 200bags mumbai goregaon project skyline towers 10days",
+    "output": {
+      "material_name": "ultratech opc",
+      "quantity": 200.0,
+      "unit": "bags",
+      "project_name": "project skyline towers",
+      "location": "mumbai goregaon",
+      "urgency_signal": null,
+      "urgency": "low",
+      "deadline": null
+    }
+  },
+  {
+    "input": "Plywood 8mm 50 sheets Hyderabad Metro work deadline 5th jan",
+    "output": {
+      "material_name": "Plywood 8mm",
+      "quantity": 50.0,
+      "unit": "sheets",
+      "project_name": "Hyderabad Metro work",
+      "location": null,
+      "urgency_signal": null,
+      "urgency": "low",
+      "deadline": "2025-01-05"
+    }
+  },
+  {
+    "input": "river sand 10 truck load urgent for noida site no project name just deliver fast",
+    "output": {
+      "material_name": "river sand",
+      "quantity": 10.0,
+      "unit": "truck load",
+      "project_name": null,
+      "location": "noida",
+      "urgency_signal": "urgent",
+      "urgency": "high",
+      "deadline": null
+    }
+  },
+  {
+    "input": "Birla cement 100 bag 43 grade location unknown urgency high",
+    "output": {
+      "material_name": "Birla cement 43 grade",
+      "quantity": 100.0,
+      "unit": "bags",
+      "project_name": null,
+      "location": null,
+      "urgency_signal": "high",
+      "urgency": "low",
+      "deadline": null
+    }
+  },
+  {
+    "input": "MS angle 40x40x5mm 500kg for Kolkata Airport expansion by 20 December",
+    "output": {
+      "material_name": "MS angle 40x40x5mm",
+      "quantity": 500.0,
+      "unit": "kg",
+      "project_name": "Kolkata Airport expansion",
+      "location": null,
+      "urgency_signal": null,
+      "urgency": "low",
+      "deadline": "2025-12-20"
+    }
+  },
+  {
+    "input": "ready mix concrete M25 grade 15 cubic meter Chennai OMR project tech park phase 3 need before christmas",
+    "output": {
+      "material_name": "ready mix concrete M25 grade",
+      "quantity": 15.0,
+      "unit": "cubic meter",
+      "project_name": "OMR project tech park phase 3",
+      "location": "Chennai",
+      "urgency_signal": "before christmas",
+      "urgency": "low",
+      "deadline": null
+    }
+  },
+  {
+    "input": "bricks red clay 10000 pieces site bangalore whitefield no deadline mentioned",
+    "output": {
+      "material_name": "bricks red clay",
+      "quantity": 10000.0,
+      "unit": "pieces",
+      "project_name": null,
+      "location": "site bangalore whitefield",
+      "urgency_signal": null,
+      "urgency": "low",
+      "deadline": null
+    }
+  },
+  {
+    "input": "Binding wire 1ton ASAP site in Indore",
+    "output": {
+      "material_name": "binding wire",
+      "quantity": null,
+      "unit": null,
+      "project_name": null,
+      "location": "site in Indore",
+      "urgency_signal": "ASAP",
+      "urgency": "high",
+      "deadline": null
+    }
+  },
+  {
+    "input": "bhai kal tak 200 cement bags mangwa do site pe",
+    "output": {
+      "material_name": "cement bags",
+      "quantity": 200.0,
+      "unit": null,
+      "project_name": null,
+      "location": "site pe",
+      "urgency_signal": null,
+      "urgency": "low",
+      "deadline": "2024-12-24"
+    }
+  },
+  {
+    "input": "Need 40 bags ACC cement for Andheri site ASAP",
+    "output": {
+      "material_name": "ACC cement",
+      "quantity": 40.0,
+      "unit": "bags",
+      "project_name": null,
+      "location": "Andheri site",
+      "urgency_signal": "ASAP",
+      "urgency": "high",
+      "deadline": null
+    }
+  },
+  {
+    "input": "Steel rods 16mm around 3 ton chahiye Project Shanti Nagar",
+    "output": {
+      "material_name": "Steel rods 16mm",
+      "quantity": null,
+      "unit": null,
+      "project_name": "Project Shanti Nagar",
+      "location": null,
+      "urgency_signal": null,
+      "urgency": "low",
+      "deadline": null
+    }
+  },
+  {
+    "input": "Pls arrange 25mm TMT bars 120 qty for phoenix project before 15 march",
+    "output": {
+      "material_name": "25mm TMT bars",
+      "quantity": 120.0,
+      "unit": null,
+      "project_name": "phoenix project",
+      "location": null,
+      "urgency_signal": null,
+      "urgency": "low",
+      "deadline": "2025-03-15"
+    }
+  },
+  {
+    "input": "Sand order karna hai 10 truck river sand bangalore metro phase 2",
+    "output": {
+      "material_name": "river sand",
+      "quantity": null,
+      "unit": null,
+      "project_name": "bangalore metro phase 2",
+      "location": "bangalore",
+      "urgency_signal": null,
+      "urgency": "low",
+      "deadline": null
+    }
+  },
+  {
+    "input": "Urgent requirement bricks around 5000 nos for site near whitefield",
+    "output": {
+      "material_name": "bricks",
+      "quantity": 5000.0,
+      "unit": "nos",
+      "project_name": null,
+      "location": "site near whitefield",
+      "urgency_signal": "urgent",
+      "urgency": "high",
+      "deadline": null
+    }
+  },
+  {
+    "input": "Tiles mangwa do 600 sqft project orchid by next week",
+    "output": {
+      "material_name": "Tiles mangwa",
+      "quantity": null,
+      "unit": null,
+      "project_name": "project orchid",
+      "location": null,
+      "urgency_signal": "next week",
+      "urgency": "low",
+      "deadline": null
+    }
+  },
+  {
+    "input": "Need ultratech cement 50kg bags approx 300 location borivali west",
+    "output": {
+      "material_name": "ultratech cement",
+      "quantity": 300.0,
+      "unit": "bags",
+      "project_name": null,
+      "location": "borivali west",
+      "urgency_signal": null,
+      "urgency": "low",
+      "deadline": null
+    }
+  },
+  {
+    "input": "Cement chahiye jaldi hai",
+    "output": {
+      "material_name": "Cement",
+      "quantity": null,
+      "unit": null,
+      "project_name": null,
+      "location": null,
+      "urgency_signal": "jaldi hai",
+      "urgency": "low",
+      "deadline": null
+    }
+  },
+  {
+    "input": "Order wiring material copper cables 2.5 sqmm for residential site pune",
+    "output": {
+      "material_name": "copper cables 2.5 sqmm",
+      "quantity": null,
+      "unit": null,
+      "project_name": null,
+      "location": "Pune",
+      "urgency_signal": null,
+      "urgency": "low",
+      "deadline": null
+    }
+  },
+  {
+    "input": "Sir 12 truckloads m sand required immediately for site",
+    "output": {
+      "material_name": "m sand",
+      "quantity": 12.0,
+      "unit": "truckloads",
+      "project_name": null,
+      "location": null,
+      "urgency_signal": "immediately",
+      "urgency": "high",
+      "deadline": null
+    }
+  },
+  {
+    "input": "Pls send POP material for false ceiling noida sec 62",
+    "output": {
+      "material_name": "POP material",
+      "quantity": null,
+      "unit": null,
+      "project_name": null,
+      "location": "Noida Sec 62",
+      "urgency_signal": null,
+      "urgency": "low",
+      "deadline": null
+    }
+  },
+  {
+    "input": "Steel ASAP for warehouse project but quantity not finalized",
+    "output": {
+      "material_name": "Steel",
+      "quantity": null,
+      "unit": null,
+      "project_name": "warehouse project",
+      "location": null,
+      "urgency_signal": "ASAP",
+      "urgency": "high",
+      "deadline": null
+    }
+  },
+  {
+    "input": "Need paint asian apex ultima 20 drums for site tomorrow",
+    "output": {
+      "material_name": "paint asian apex ultima 20 drums",
+      "quantity": null,
+      "unit": null,
+      "project_name": null,
+      "location": null,
+      "urgency_signal": "tomorrow",
+      "urgency": "low",
+      "deadline": null
+    }
+  },
+  {
+    "input": "Concrete blocks 8 inch 1000 pcs project skyview no deadline",
+    "output": {
+      "material_name": "Concrete blocks 8 inch",
+      "quantity": 1000.0,
+      "unit": "pcs",
+      "project_name": "Project Skyview",
+      "location": null,
+      "urgency_signal": null,
+      "urgency": "low",
+      "deadline": null
+    }
+  }
+]
